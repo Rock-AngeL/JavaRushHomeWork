@@ -21,11 +21,14 @@ public class Solution
     public static long  getTimeMsOfInsert(List list)
     {
         //Напишите тут ваш код
+        long i = System.currentTimeMillis();
 
         insert10000(list);
 
         //Напишите тут ваш код
-
+        long j = System.currentTimeMillis();
+        long time = j - i;
+        return time ;
     }
 
     public static void insert10000(List list)

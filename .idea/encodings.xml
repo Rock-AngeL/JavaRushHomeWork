@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false" />
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/src/com/javarush/test/level14/lesson06/home01/BelarusianHen.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/javarush/test/level14/lesson06/home01/Hen.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/javarush/test/level14/lesson06/home01/MoldovanHen.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/javarush/test/level14/lesson06/home01/RussianHen.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/javarush/test/level14/lesson06/home01/Solution.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/javarush/test/level14/lesson06/home01/UkrainianHen.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/javarush/test/level14/lesson08/home02/BubblyWine.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/javarush/test/level14/lesson08/home02/Drink.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/javarush/test/level14/lesson08/home02/Wine.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/javarush/test/level15/lesson12/bonus02/DrinkMaker.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/javarush/test/level15/lesson12/bonus02/LatteMaker.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/javarush/test/level15/lesson12/bonus02/TeaMaker.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/javarush/test/level27/lesson15/big01/ConsoleHelper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/javarush/test/level27/lesson15/big01/Restaurant.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/javarush/test/level27/lesson15/big01/Tablet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/javarush/test/level27/lesson15/big01/kitchen/Dish.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/javarush/test/level27/lesson15/big01/kitchen/Order.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/javarush/test/level28/lesson15/big01/Aggregator.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/javarush/test/level28/lesson15/big01/Controller.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/javarush/test/level28/lesson15/big01/model/HHStrategy.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/javarush/test/level28/lesson15/big01/model/Provider.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/javarush/test/level28/lesson15/big01/model/Strategy.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/javarush/test/level28/lesson15/big01/vo/Vacancy.java" charset="UTF-8" />
+  </component>
 </project>
-
